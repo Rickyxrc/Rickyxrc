@@ -5,3 +5,4 @@
 - xrank - 实时网页排行榜
 - xincheng-frontend - 新成OJ前端
 - xincheng-backend - 新成OJ后端
+- xincheng-judge - 新成OJ评测系统
