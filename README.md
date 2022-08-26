@@ -6,3 +6,4 @@
 - xincheng-frontend - 新成OJ前端
 - xincheng-backend - 新成OJ后端
 - xincheng-judge - 新成OJ评测系统
+- Idage - 简洁的图片牌子显示器
