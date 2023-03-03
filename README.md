@@ -2,7 +2,7 @@
 
 我写的(能看的)项目:
 
-| [my personal site](https://rickyxrc.top) | [my personal blog](https://blog.rickyxrc.top) |
+| [my personal site](https://rickyxrc.cc) | [my personal blog](https://blog.rickyxrc.cc) |
 
 - xrank - 实时网页排行榜
 - xincheng-frontend - 新成OJ前端
