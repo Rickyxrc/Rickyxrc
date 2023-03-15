@@ -1,5 +1,7 @@
 我是一名初三学生，热爱计算机的各种技术。
 
+[我的GPG公钥](https://github.com/Rickyxrc/Rickyxrc/blob/main/public.gpg)
+
 我写的(能看的)项目:
 
 | [my personal site](https://rickyxrc.cc) | [my personal blog](https://blog.rickyxrc.cc) |
