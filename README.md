@@ -4,7 +4,7 @@
 
 My GPG Key id is `Rickyxrc`,fingerprint is `1859 10BD C575 E260 AA90  DB86 EEE1 E750 E9E0 A018`.
 
-公钥及公钥签名仅在github和[我的个人主页](https://rickyxrc.cc)发布，不会在其他地方发布，请不要信任。
+公钥及公钥签名仅在[github](https://github.com/Rickyxrc/Rickyxrc/blob/main/pub.gpg)和[我的个人主页](https://rickyxrc.cc)发布，不会在其他地方发布，请不要信任。
 
 我写的(能看的)项目:
 
