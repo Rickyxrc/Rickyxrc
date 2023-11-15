@@ -8,4 +8,4 @@ My GPG Key id is `Rickyxrc`,fingerprint is `1859 10BD C575 E260 AA90  DB86 EEE1 
 
 公钥及公钥签名仅在[github](https://github.com/Rickyxrc/Rickyxrc/blob/main/pub.gpg)和[我的个人主页](https://rickyxrc.cc)发布，不会在其他地方发布，请不要信任。
 
-OIer，基本不写什么项目，有一些奇怪的idea和将它们变为现实的能力，可惜没有时间（笑）。
+退役的 OIer。
