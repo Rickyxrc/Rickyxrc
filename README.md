@@ -1,11 +1,7 @@
 你好，我是rickyxrc，为营造更好的网络环境和一个更好的明天而不懈奋斗。
 
-我的GPG公钥ID是`Rickyxrc`(严格大小写)，指纹ID是 `1859 10BD C575 E260 AA90  DB86 EEE1 E750 E9E0 A018`.
+我曾经使用的GPG公钥ID是`Rickyxrc`(严格大小写)，指纹ID是 `1859 10BD C575 E260 AA90  DB86 EEE1 E750 E9E0 A018`.
 
-My GPG Key id is `Rickyxrc`,fingerprint is `1859 10BD C575 E260 AA90  DB86 EEE1 E750 E9E0 A018`.
+由于一次密钥误删除，我失去了私钥，因此无法进行签名/解密，请不要继续使用该密钥（虽然我无法证明）。
 
-[gpg key from github](https://github.com/Rickyxrc/Rickyxrc/blob/main/pub.gpg)
-
-公钥及公钥签名仅在[github](https://github.com/Rickyxrc/Rickyxrc/blob/main/pub.gpg)和[我的个人主页](https://rickyxrc.cc)发布，不会在其他地方发布，请不要信任。
-
-退役的 OIer。
+今后的提交将不再使用签名，同时不对 owner 非本人仓库的 commit 内容负责。
