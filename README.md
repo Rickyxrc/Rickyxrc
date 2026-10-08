@@ -15,4 +15,3 @@
 - Nix 配置：[Rickyxrc/nix-config](https://github.com/Rickyxrc/nix-config)
 - 个人站：[rickyxrc.cc](https://rickyxrc.cc)；博客：[blog.rickyxrc.cc](https://blog.rickyxrc.cc)，部署于 Vercel。
 - 曾为高中搭建基于 HydroOJ 的在线评测平台，并为信息学竞赛配置 NOI Linux 环境。
-- 
